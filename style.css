@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(135deg, #ff5fad, #ffc371);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.stButton > button {
+    background-color: #8e2de2;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.stSlider > div {
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
